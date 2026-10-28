@@ -1,0 +1,14 @@
+SKU,Product,Category,Stock (units),Unit Cost (INR),Stock Value (INR),Selling Price (INR),Retail Value (INR),Margin %,Supplier,Lead Time (days),Reorder Level,Safety Stock
+KIR-ATT-001,Aashirvaad Superior MP Sharbati Atta 5kg,Atta & Grains,4,235.0,940.0,300.0,1200.0,21.7,,0,0,0
+KIR-DAR-004,Amul Pasteurised Butter 500g,Dairy & Cold,18,245.0,4410.0,275.0,4950.0,10.9,,0,0,0
+KIR-NEW-011,Britannia Good Day Cashew Cookies 600g,Snacks & Biscuits,10,95.0,950.0,115.0,1150.0,17.4,,0,0,0
+KIR-DTH-010,Dettol Antiseptic Liquid 550ml,Personal & Home Care,24,178.0,4272.0,212.0,5088.0,16.0,,0,0,0
+KIR-SPV-009,Everest Pav Bhaji Masala 100g,Spices & Salt,1,54.0,54.0,68.0,68.0,20.6,,0,0,0
+KIR-OIL-003,Fortune Sunlite Refined Sunflower Oil 1L Pouch,Oil & Ghee,0,128.0,0.0,145.0,0.0,11.7,,0,0,0
+KIR-MAG-006,Maggi 2-Minute Masala Noodles 420g (Pack of 6),Instant Food,3,72.0,216.0,86.0,258.0,16.3,,0,0,0
+KIR-SNK-005,Parle-G Gold Glucose Biscuits 1kg Pack,Snacks & Biscuits,6,92.0,552.0,110.0,660.0,16.4,,0,0,0
+KIR-CLN-007,Surf Excel Quick Wash Detergent Powder 2kg,Personal & Home Care,14,290.0,4060.0,340.0,4760.0,14.7,,0,0,0
+KIR-SLT-002,Tata Salt Vacuum Evaporated 1kg,Spices & Salt,2,21.0,42.0,28.0,56.0,25.0,,0,0,0
+KIR-TEA-008,Wagh Bakri Premium Leaf Tea 500g,Beverages,22,210.0,4620.0,260.0,5720.0,19.2,,0,0,0
+pav bhaji,pb123,Instant Food,0,220.0,0.0,280.0,0.0,21.4,pb456,10,5,2
+TOTAL,,,104,,20116.0,,23910.0,,,,,
